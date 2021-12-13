@@ -3,7 +3,12 @@ package com.spring.bioMedical.service;
 import java.util.List;
 import com.spring.bioMedical.entity.Admin;
 import com.spring.bioMedical.entity.User;
-
+/**
+ * 
+ * @author Soumyadip Chowdhury
+ * @github soumyadip007
+ *
+ */
 public interface AdminService {
 
 
